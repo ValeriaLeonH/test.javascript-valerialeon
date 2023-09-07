@@ -1,25 +1,17 @@
-# template-readme
+# Exercise The Odin Project
 
-![](https://img.shields.io/badge/Uneweb-blue)
+> Exercises of JavaScript in HTML.
 
-# Project Name
-
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+(![Alt text](image.png))
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- JavaScript
 
 ## Live Demo
 
 [Live Demo Link](https://valerialeonh.github.io/test.javascript-valerialeon)
-
 
 ## Getting Started
 
@@ -45,23 +37,18 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Valeria Leon**
 
 - GitHub: [@aValeriaLeonH](https://github.com/ValeriaLeonH)
 - Twitter: [colocartwitter]()
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/valeria-leon-30960527a/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/ValeriaLeonH/test.javascript-valerialeon/issues).
 
 ## Show your support
 
